@@ -8,7 +8,7 @@
 \begin_preamble
 \usepackage{listings}
 \pdsetup{%
-  lf=Reading 2016,
+  lf=ASPP,
 %  rf=NumPy: Kittens \& Dragons,
   logohook=t,
 %  palette=green,
@@ -107,6 +107,16 @@
 \begin_body
 
 \begin_layout Title
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \begin_inset VSpace -0.95in
 \end_inset
 
@@ -136,7 +146,7 @@ Cython
 \begin_inset Newline newline
 \end_inset
 
-ASPP, Reading, UK
+ASPP, Melbourne, Australia
 \begin_inset Newline newline
 \end_inset
 
